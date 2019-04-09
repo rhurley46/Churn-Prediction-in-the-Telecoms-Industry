@@ -1,0 +1,1 @@
+This folder contains all of the matlab scripts necessary to run the methodology in this project. If simply wanting to reproduce the outputs, please use the Test files. The results needed for running these are already presaved in the folder from the end of the methodology sections.
